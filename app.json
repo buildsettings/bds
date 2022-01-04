@@ -1,8 +1,8 @@
 ﻿{
-  "name": "vbs",
-  "description": "vbs",
+  "name": "tingsv",
+  "description": "tingsv",
   "keywords": [
-    "vbs"
+    "tingsv"
   ],
   "env": {
     "PROTOCOL": {
@@ -20,8 +20,8 @@
     }
    
   },
-  "website": "https://github.com/buildsettings/bds",
-  "repository": "https://github.com/buildsettings/bds",
+  "website": "https://github.com/buildsettings/tings",
+  "repository": "https://github.com/buildsettings/tings",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
