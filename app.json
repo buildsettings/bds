@@ -1,6 +1,6 @@
 ﻿{
-  "name": "tingsv",
-  "description": "tingsv",
+  "name": "taitai",
+  "description": "taitai",
   "keywords": [
     "tingsv"
   ],
@@ -20,8 +20,8 @@
     }
    
   },
-  "website": "https://github.com/buildsettings/tings",
-  "repository": "https://github.com/buildsettings/tings",
+  "website": "https://github.com/buildsettings/taitai",
+  "repository": "https://github.com/buildsettings/taitai",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
